@@ -1,0 +1,682 @@
+[Sat Feb 26 13:49:33.432412 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:35416] Not Found: /static/fonts/themify/themify-icons.css
+[Sat Feb 26 13:49:33.494946 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:35416] Not Found: /static/vendor/animsition/css/animsition.min.css
+[Sat Feb 26 13:49:33.501910 2022] [wsgi:error] [pid 8318:tid 139718134531840] [remote 88.227.56.28:36743] Not Found: /static/fonts/Linearicons-Free-v1.0.0/icon-font.min.css
+[Sat Feb 26 13:49:33.502841 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:34196] Not Found: /static/fonts/elegant-font/html-css/style.css
+[Sat Feb 26 13:49:33.502970 2022] [wsgi:error] [pid 8318:tid 139718210066176] [remote 88.227.56.28:35827] Not Found: /static/vendor/animate/animate.css
+[Sat Feb 26 13:49:33.503636 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:33490] Not Found: /static/vendor/css-hamburgers/hamburgers.min.css
+[Sat Feb 26 13:49:33.575835 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:35827] Not Found: /static/vendor/slick/slick.css
+[Sat Feb 26 13:49:33.579901 2022] [wsgi:error] [pid 8318:tid 139718210066176] [remote 88.227.56.28:35416] Not Found: /static/vendor/lightbox2/css/lightbox.min.css
+[Sat Feb 26 13:49:33.580095 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:33490] Not Found: /static/css/util.css
+[Sat Feb 26 13:49:33.580591 2022] [wsgi:error] [pid 8318:tid 139718151317248] [remote 88.227.56.28:36743] Not Found: /static/vendor/select2/select2.min.css
+[Sat Feb 26 13:49:33.582655 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:34196] Not Found: /static/vendor/daterangepicker/daterangepicker.css
+[Sat Feb 26 13:49:33.647511 2022] [wsgi:error] [pid 8318:tid 139718151317248] [remote 88.227.56.28:34196] Not Found: /static/fonts2/iconic/css/material-design-iconic-font.min.css
+[Sat Feb 26 13:49:33.656415 2022] [wsgi:error] [pid 8318:tid 139718134531840] [remote 88.227.56.28:36743] Not Found: /static/css/main.css
+[Sat Feb 26 13:49:33.658204 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:33490] Not Found: /static/vendor2/animate/animate.css
+[Sat Feb 26 13:49:33.660921 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:35416] Not Found: /static/fonts2/font-awesome-4.7.0/css/font-awesome.min.css
+[Sat Feb 26 13:49:33.661326 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:35827] Not Found: /static/vendor2/bootstrap/css/bootstrap.min.css
+[Sat Feb 26 13:49:33.714933 2022] [wsgi:error] [pid 8318:tid 139718210066176] [remote 88.227.56.28:35019] Not Found: /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css
+[Sat Feb 26 13:49:33.728497 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:34196] Not Found: /static/vendor2/css-hamburgers/hamburgers.min.css
+[Sat Feb 26 13:49:33.730119 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:36743] Not Found: /static/vendor2/animsition/css/animsition.min.css
+[Sat Feb 26 13:49:33.731449 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:35416] Not Found: /static/vendor2/select2/select2.min.css
+[Sat Feb 26 13:49:33.732736 2022] [wsgi:error] [pid 8318:tid 139718151317248] [remote 88.227.56.28:33490] Not Found: /static/vendor2/daterangepicker/daterangepicker.css
+[Sat Feb 26 13:49:33.766763 2022] [wsgi:error] [pid 8318:tid 139718134531840] [remote 88.227.56.28:36958] Not Found: /static/assets2/css/main2.css
+[Sat Feb 26 13:49:33.789511 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:35416] Not Found: /static/vendor/select2/select2.min.js
+[Sat Feb 26 13:49:33.797496 2022] [wsgi:error] [pid 8318:tid 139718151317248] [remote 88.227.56.28:35019] Not Found: /static/vendor/jquery/jquery-3.2.1.min.js
+[Sat Feb 26 13:49:33.799100 2022] [wsgi:error] [pid 8318:tid 139718134531840] [remote 88.227.56.28:36743] Not Found: /static/vendor/animsition/js/animsition.min.js
+[Sat Feb 26 13:49:33.799711 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:33490] Not Found: /static/vendor/slick/slick.min.js
+[Sat Feb 26 13:49:33.834024 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:36958] Not Found: /static/js/slick-custom.js
+[Sat Feb 26 13:49:33.839243 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:37253] Not Found: /static/vendor/countdowntime/countdowntime.js
+[Sat Feb 26 13:49:33.857922 2022] [wsgi:error] [pid 8318:tid 139718134531840] [remote 88.227.56.28:35416] Not Found: /static/vendor/lightbox2/js/lightbox.min.js
+[Sat Feb 26 13:49:33.867980 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:35019] Not Found: /static/js/react-dom.development.js
+[Sat Feb 26 13:49:33.868395 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:33490] Not Found: /static/vendor/sweetalert/sweetalert.min.js
+[Sat Feb 26 13:49:33.869850 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:36743] Not Found: /static/js/react.development.js
+[Sat Feb 26 13:49:33.894918 2022] [wsgi:error] [pid 8318:tid 139718151317248] [remote 88.227.56.28:36958] Not Found: /static/js/main.js
+[Sat Feb 26 13:49:33.897045 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:37253] Not Found: /static/images/Logo/Logo.png
+[Sat Feb 26 13:49:33.928027 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:35416] Not Found: /static/vendor/select2/select2.min.js
+[Sat Feb 26 13:49:33.992787 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:35416] Not Found: /static/vendor/slick/slick.min.js
+[Sat Feb 26 13:49:34.055635 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:35416] Not Found: /static/js/slick-custom.js
+[Sat Feb 26 13:49:34.118102 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:35416] Not Found: /static/vendor/countdowntime/countdowntime.js
+[Sat Feb 26 13:49:34.180871 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:35416] Not Found: /static/vendor/lightbox2/js/lightbox.min.js
+[Sat Feb 26 13:49:34.244419 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:35416] Not Found: /static/js/react.development.js
+[Sat Feb 26 13:49:34.308030 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:35416] Not Found: /static/js/react-dom.development.js
+[Sat Feb 26 13:49:34.372846 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:35416] Not Found: /static/vendor/sweetalert/sweetalert.min.js
+[Sat Feb 26 13:49:34.459702 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:35416] Not Found: /static/js/main.js
+[Sat Feb 26 13:49:34.522168 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:35416] Not Found: /static/images/icons/favicon.png
+[Sat Feb 26 13:49:34.608045 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:35416] Not Found: /static/images2/icons/favicon.ico
+[Sat Feb 26 13:49:34.675476 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:35416] Not Found: /static/images2/icons/favicon.ico
+[Sat Feb 26 13:49:34.742578 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:35416] Not Found: /static/images/icons/favicon.png
+[Sat Feb 26 13:51:50.755596 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:37316] Not Found: /admin
+[Sat Feb 26 13:51:54.700607 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:37316] Not Found: /static/admin/css/base.css
+[Sat Feb 26 13:51:54.702291 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:34215] Not Found: /static/admin/css/nav_sidebar.css
+[Sat Feb 26 13:51:54.774848 2022] [wsgi:error] [pid 8318:tid 139718151317248] [remote 88.227.56.28:35126] Not Found: /static/admin/css/dashboard.css
+[Sat Feb 26 13:51:54.776583 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:37301] Not Found: /static/admin/js/nav_sidebar.js
+[Sat Feb 26 13:51:54.778071 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:37316] Not Found: /static/admin/css/responsive.css
+[Sat Feb 26 13:52:52.530918 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:36851] Not Found: /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css
+[Sat Feb 26 13:52:52.532167 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:37052] Not Found: /static/fonts/themify/themify-icons.css
+[Sat Feb 26 13:52:52.579676 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:35231] Not Found: /static/fonts/Linearicons-Free-v1.0.0/icon-font.min.css
+[Sat Feb 26 13:52:52.600704 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:34025] Not Found: /static/fonts/elegant-font/html-css/style.css
+[Sat Feb 26 13:52:52.601994 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:34150] Not Found: /static/vendor/animate/animate.css
+[Sat Feb 26 13:52:52.603599 2022] [wsgi:error] [pid 8318:tid 139718151317248] [remote 88.227.56.28:37314] Not Found: /static/vendor/css-hamburgers/hamburgers.min.css
+[Sat Feb 26 13:52:52.604945 2022] [wsgi:error] [pid 8318:tid 139718134531840] [remote 88.227.56.28:36851] Not Found: /static/vendor/animsition/css/animsition.min.css
+[Sat Feb 26 13:52:52.606636 2022] [wsgi:error] [pid 8318:tid 139718210066176] [remote 88.227.56.28:37052] Not Found: /static/vendor/select2/select2.min.css
+[Sat Feb 26 13:52:52.639623 2022] [wsgi:error] [pid 8318:tid 139718168102656] [remote 88.227.56.28:35231] Not Found: /static/vendor2/bootstrap/css/bootstrap.min.css
+[Sat Feb 26 13:52:52.674938 2022] [wsgi:error] [pid 8318:tid 139718151317248] [remote 88.227.56.28:34150] Not Found: /static/vendor/lightbox2/css/lightbox.min.css
+[Sat Feb 26 13:52:52.682597 2022] [wsgi:error] [pid 8318:tid 139718210066176] [remote 88.227.56.28:36851] Not Found: /static/vendor/daterangepicker/daterangepicker.css
+[Sat Feb 26 13:52:52.682770 2022] [wsgi:error] [pid 8318:tid 139718134531840] [remote 88.227.56.28:37052] Not Found: /static/vendor/slick/slick.css
+[Sat Feb 26 13:52:52.684576 2022] [wsgi:error] [pid 8318:tid 139718168102656] [remote 88.227.56.28:34025] Not Found: /static/vendor2/css-hamburgers/hamburgers.min.css
+[Sat Feb 26 13:52:52.684972 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:37314] Not Found: /static/css/util.css
+[Sat Feb 26 13:52:52.700059 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:35231] Not Found: /static/css/main.css
+[Sat Feb 26 13:52:52.757209 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:36851] Not Found: /static/fonts2/font-awesome-4.7.0/css/font-awesome.min.css
+[Sat Feb 26 13:52:52.761915 2022] [wsgi:error] [pid 8318:tid 139718151317248] [remote 88.227.56.28:35231] Not Found: /static/vendor2/daterangepicker/daterangepicker.css
+[Sat Feb 26 13:52:52.763245 2022] [wsgi:error] [pid 8318:tid 139718168102656] [remote 88.227.56.28:34150] Not Found: /static/vendor2/animate/animate.css
+[Sat Feb 26 13:52:52.764825 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:37052] Not Found: /static/fonts2/iconic/css/material-design-iconic-font.min.css
+[Sat Feb 26 13:52:52.766423 2022] [wsgi:error] [pid 8318:tid 139718210066176] [remote 88.227.56.28:34025] Not Found: /static/vendor2/animsition/css/animsition.min.css
+[Sat Feb 26 13:52:52.768091 2022] [wsgi:error] [pid 8318:tid 139718134531840] [remote 88.227.56.28:37314] Not Found: /static/vendor2/select2/select2.min.css
+[Sat Feb 26 13:52:52.817054 2022] [wsgi:error] [pid 8318:tid 139718218458880] [remote 88.227.56.28:36851] Not Found: /static/assets2/css/main2.css
+[Sat Feb 26 13:52:52.835544 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:34025] Not Found: /static/vendor/slick/slick.min.js
+[Sat Feb 26 13:52:52.841020 2022] [wsgi:error] [pid 8318:tid 139718134531840] [remote 88.227.56.28:37052] Not Found: /static/vendor/animsition/js/animsition.min.js
+[Sat Feb 26 13:52:52.841415 2022] [wsgi:error] [pid 8318:tid 139718210066176] [remote 88.227.56.28:34150] Not Found: /static/vendor/select2/select2.min.js
+[Sat Feb 26 13:52:52.841981 2022] [wsgi:error] [pid 8318:tid 139718151317248] [remote 88.227.56.28:35231] Not Found: /static/vendor/jquery/jquery-3.2.1.min.js
+[Sat Feb 26 13:52:52.843498 2022] [wsgi:error] [pid 8318:tid 139718168102656] [remote 88.227.56.28:37314] Not Found: /static/js/slick-custom.js
+[Sat Feb 26 13:52:52.883667 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:36851] Not Found: /static/vendor/countdowntime/countdowntime.js
+[Sat Feb 26 13:52:52.910946 2022] [wsgi:error] [pid 8318:tid 139718168102656] [remote 88.227.56.28:35231] Not Found: /static/vendor/lightbox2/js/lightbox.min.js
+[Sat Feb 26 13:52:52.911995 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:37052] Not Found: /static/js/react.development.js
+[Sat Feb 26 13:52:52.926925 2022] [wsgi:error] [pid 8318:tid 139718151317248] [remote 88.227.56.28:37314] Not Found: /static/js/react-dom.development.js
+[Sat Feb 26 13:52:52.933488 2022] [wsgi:error] [pid 8318:tid 139718168102656] [remote 88.227.56.28:34025] Not Found: /static/js/main.js
+[Sat Feb 26 13:52:52.933917 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:34150] Not Found: /static/vendor/sweetalert/sweetalert.min.js
+[Sat Feb 26 13:52:52.946144 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:36851] Not Found: /static/images/Logo/Logo.png
+[Sat Feb 26 13:52:52.969993 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:37052] Not Found: /static/vendor/animsition/js/animsition.min.js
+[Sat Feb 26 13:52:53.045241 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:37052] Not Found: /static/vendor/select2/select2.min.js
+[Sat Feb 26 13:52:53.108891 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:37052] Not Found: /static/vendor/slick/slick.min.js
+[Sat Feb 26 13:52:53.175508 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:37052] Not Found: /static/js/slick-custom.js
+[Sat Feb 26 13:52:53.240518 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:37052] Not Found: /static/vendor/countdowntime/countdowntime.js
+[Sat Feb 26 13:52:53.299933 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:37052] Not Found: /static/vendor/lightbox2/js/lightbox.min.js
+[Sat Feb 26 13:52:53.373008 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:37052] Not Found: /static/js/react.development.js
+[Sat Feb 26 13:52:53.440773 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:37052] Not Found: /static/js/react-dom.development.js
+[Sat Feb 26 13:52:53.517539 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:37052] Not Found: /static/vendor/sweetalert/sweetalert.min.js
+[Sat Feb 26 13:52:53.581624 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:37052] Not Found: /static/js/main.js
+[Sat Feb 26 13:52:53.647266 2022] [wsgi:error] [pid 8318:tid 139718142924544] [remote 88.227.56.28:37052] Not Found: /static/images/icons/favicon.png
+[Sat Feb 26 13:52:53.778963 2022] [wsgi:error] [pid 8318:tid 139718100961024] [remote 88.227.56.28:37052] Not Found: /static/images2/icons/favicon.ico
+Exception ignored in: <function Local.__del__ at 0x7f12a6bf2310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f12a6bf2310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+[Sat Feb 26 13:59:51.806448 2022] [wsgi:error] [pid 8588:tid 140424536717056] [remote 88.227.56.28:35845] Not Found: /admin
+[Sat Feb 26 14:03:18.872721 2022] [wsgi:error] [pid 8588:tid 140424444397312] [remote 143.198.46.244:39962] Not Found: /.env
+[Sat Feb 26 14:03:19.095185 2022] [wsgi:error] [pid 8588:tid 140424536717056] [remote 143.198.46.244:40018] Forbidden (CSRF cookie not set.): /
+Exception ignored in: <function Local.__del__ at 0x7fb71a987310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function Local.__del__ at 0x7fb71a987310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+[Sat Feb 26 14:07:51.435551 2022] [wsgi:error] [pid 8834:tid 139937683773184] [remote 88.227.56.28:35751] Not Found: /ladmin
+[Sat Feb 26 14:08:41.820817 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527] Internal Server Error: /admin/product_catalog_app/product/add/
+[Sat Feb 26 14:08:41.820862 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527] Traceback (most recent call last):
+[Sat Feb 26 14:08:41.820867 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+[Sat Feb 26 14:08:41.820871 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     response = get_response(request)
+[Sat Feb 26 14:08:41.820875 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+[Sat Feb 26 14:08:41.820880 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Sat Feb 26 14:08:41.820884 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 622, in wrapper
+[Sat Feb 26 14:08:41.820888 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     return self.admin_site.admin_view(view)(*args, **kwargs)
+[Sat Feb 26 14:08:41.820892 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+[Sat Feb 26 14:08:41.820897 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     response = view_func(request, *args, **kwargs)
+[Sat Feb 26 14:08:41.820900 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/views/decorators/cache.py", line 57, in _wrapped_view_func
+[Sat Feb 26 14:08:41.820912 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     response = view_func(request, *args, **kwargs)
+[Sat Feb 26 14:08:41.820916 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 236, in inner
+[Sat Feb 26 14:08:41.820920 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     return view(request, *args, **kwargs)
+[Sat Feb 26 14:08:41.820923 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1670, in add_view
+[Sat Feb 26 14:08:41.820927 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     return self.changeform_view(request, None, form_url, extra_context)
+[Sat Feb 26 14:08:41.820931 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+[Sat Feb 26 14:08:41.820935 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     return bound_method(*args, **kwargs)
+[Sat Feb 26 14:08:41.820939 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+[Sat Feb 26 14:08:41.823834 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     response = view_func(request, *args, **kwargs)
+[Sat Feb 26 14:08:41.823848 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1549, in changeform_view
+[Sat Feb 26 14:08:41.823852 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     return self._changeform_view(request, object_id, form_url, extra_context)
+[Sat Feb 26 14:08:41.823856 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1599, in _changeform_view
+[Sat Feb 26 14:08:41.823860 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     self.save_model(request, new_object, form, not add)
+[Sat Feb 26 14:08:41.823863 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1108, in save_model
+[Sat Feb 26 14:08:41.823867 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     obj.save()
+[Sat Feb 26 14:08:41.823870 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 743, in save
+[Sat Feb 26 14:08:41.823874 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     self.save_base(using=using, force_insert=force_insert,
+[Sat Feb 26 14:08:41.823878 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 780, in save_base
+[Sat Feb 26 14:08:41.823881 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     updated = self._save_table(
+[Sat Feb 26 14:08:41.823885 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 885, in _save_table
+[Sat Feb 26 14:08:41.823888 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+[Sat Feb 26 14:08:41.823892 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 923, in _do_insert
+[Sat Feb 26 14:08:41.823895 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     return manager._insert(
+[Sat Feb 26 14:08:41.823899 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+[Sat Feb 26 14:08:41.823902 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     return getattr(self.get_queryset(), name)(*args, **kwargs)
+[Sat Feb 26 14:08:41.823906 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/query.py", line 1301, in _insert
+[Sat Feb 26 14:08:41.823909 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     return query.get_compiler(using=using).execute_sql(returning_fields)
+[Sat Feb 26 14:08:41.823913 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1440, in execute_sql
+[Sat Feb 26 14:08:41.823916 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     for sql, params in self.as_sql():
+[Sat Feb 26 14:08:41.823920 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1382, in as_sql
+[Sat Feb 26 14:08:41.823941 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     value_rows = [
+[Sat Feb 26 14:08:41.823945 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1383, in <listcomp>
+[Sat Feb 26 14:08:41.823949 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     [self.prepare_value(field, self.pre_save_val(field, obj)) for field in fields]
+[Sat Feb 26 14:08:41.823952 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1383, in <listcomp>
+[Sat Feb 26 14:08:41.823956 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     [self.prepare_value(field, self.pre_save_val(field, obj)) for field in fields]
+[Sat Feb 26 14:08:41.823960 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1334, in pre_save_val
+[Sat Feb 26 14:08:41.823963 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     return field.pre_save(obj, add=True)
+[Sat Feb 26 14:08:41.823967 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/fields/files.py", line 302, in pre_save
+[Sat Feb 26 14:08:41.823970 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     file.save(file.name, file.file, save=False)
+[Sat Feb 26 14:08:41.823974 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/fields/files.py", line 89, in save
+[Sat Feb 26 14:08:41.823977 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     self.name = self.storage.save(name, content, max_length=self.field.max_length)
+[Sat Feb 26 14:08:41.823981 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/core/files/storage.py", line 54, in save
+[Sat Feb 26 14:08:41.823984 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     name = self._save(name, content)
+[Sat Feb 26 14:08:41.823988 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/django-project/venv/lib/python3.8/site-packages/django/core/files/storage.py", line 260, in _save
+[Sat Feb 26 14:08:41.823991 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     os.makedirs(directory, exist_ok=True)
+[Sat Feb 26 14:08:41.823994 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]   File "/usr/lib/python3.8/os.py", line 223, in makedirs
+[Sat Feb 26 14:08:41.823998 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527]     mkdir(name, mode)
+[Sat Feb 26 14:08:41.824001 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36527] PermissionError: [Errno 13] Permission denied: '/django-project/site/public/media/media'
+[Sat Feb 26 14:11:34.252885 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036] Internal Server Error: /admin/product_catalog_app/product/add/
+[Sat Feb 26 14:11:34.252961 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036] Traceback (most recent call last):
+[Sat Feb 26 14:11:34.252971 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+[Sat Feb 26 14:11:34.252977 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     response = get_response(request)
+[Sat Feb 26 14:11:34.252983 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+[Sat Feb 26 14:11:34.253011 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Sat Feb 26 14:11:34.253017 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 622, in wrapper
+[Sat Feb 26 14:11:34.253023 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     return self.admin_site.admin_view(view)(*args, **kwargs)
+[Sat Feb 26 14:11:34.253029 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+[Sat Feb 26 14:11:34.253035 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     response = view_func(request, *args, **kwargs)
+[Sat Feb 26 14:11:34.253041 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/views/decorators/cache.py", line 57, in _wrapped_view_func
+[Sat Feb 26 14:11:34.253046 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     response = view_func(request, *args, **kwargs)
+[Sat Feb 26 14:11:34.253052 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 236, in inner
+[Sat Feb 26 14:11:34.253058 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     return view(request, *args, **kwargs)
+[Sat Feb 26 14:11:34.253063 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1670, in add_view
+[Sat Feb 26 14:11:34.253069 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     return self.changeform_view(request, None, form_url, extra_context)
+[Sat Feb 26 14:11:34.253075 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+[Sat Feb 26 14:11:34.253081 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     return bound_method(*args, **kwargs)
+[Sat Feb 26 14:11:34.253087 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+[Sat Feb 26 14:11:34.253093 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     response = view_func(request, *args, **kwargs)
+[Sat Feb 26 14:11:34.253101 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1549, in changeform_view
+[Sat Feb 26 14:11:34.253107 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     return self._changeform_view(request, object_id, form_url, extra_context)
+[Sat Feb 26 14:11:34.253112 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1599, in _changeform_view
+[Sat Feb 26 14:11:34.253118 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     self.save_model(request, new_object, form, not add)
+[Sat Feb 26 14:11:34.253124 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1108, in save_model
+[Sat Feb 26 14:11:34.253129 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     obj.save()
+[Sat Feb 26 14:11:34.253144 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 743, in save
+[Sat Feb 26 14:11:34.253151 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     self.save_base(using=using, force_insert=force_insert,
+[Sat Feb 26 14:11:34.253157 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 780, in save_base
+[Sat Feb 26 14:11:34.253162 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     updated = self._save_table(
+[Sat Feb 26 14:11:34.253168 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 885, in _save_table
+[Sat Feb 26 14:11:34.253174 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+[Sat Feb 26 14:11:34.253179 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 923, in _do_insert
+[Sat Feb 26 14:11:34.253185 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     return manager._insert(
+[Sat Feb 26 14:11:34.253191 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+[Sat Feb 26 14:11:34.253197 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     return getattr(self.get_queryset(), name)(*args, **kwargs)
+[Sat Feb 26 14:11:34.253202 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/query.py", line 1301, in _insert
+[Sat Feb 26 14:11:34.253208 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     return query.get_compiler(using=using).execute_sql(returning_fields)
+[Sat Feb 26 14:11:34.253213 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1440, in execute_sql
+[Sat Feb 26 14:11:34.253219 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     for sql, params in self.as_sql():
+[Sat Feb 26 14:11:34.253224 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1382, in as_sql
+[Sat Feb 26 14:11:34.253229 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     value_rows = [
+[Sat Feb 26 14:11:34.253234 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1383, in <listcomp>
+[Sat Feb 26 14:11:34.253239 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     [self.prepare_value(field, self.pre_save_val(field, obj)) for field in fields]
+[Sat Feb 26 14:11:34.253244 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1383, in <listcomp>
+[Sat Feb 26 14:11:34.253249 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     [self.prepare_value(field, self.pre_save_val(field, obj)) for field in fields]
+[Sat Feb 26 14:11:34.253255 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1334, in pre_save_val
+[Sat Feb 26 14:11:34.253260 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     return field.pre_save(obj, add=True)
+[Sat Feb 26 14:11:34.253272 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/fields/files.py", line 302, in pre_save
+[Sat Feb 26 14:11:34.253278 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     file.save(file.name, file.file, save=False)
+[Sat Feb 26 14:11:34.253284 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/fields/files.py", line 89, in save
+[Sat Feb 26 14:11:34.253290 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     self.name = self.storage.save(name, content, max_length=self.field.max_length)
+[Sat Feb 26 14:11:34.253295 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/core/files/storage.py", line 54, in save
+[Sat Feb 26 14:11:34.253300 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     name = self._save(name, content)
+[Sat Feb 26 14:11:34.253305 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/django-project/venv/lib/python3.8/site-packages/django/core/files/storage.py", line 260, in _save
+[Sat Feb 26 14:11:34.253310 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     os.makedirs(directory, exist_ok=True)
+[Sat Feb 26 14:11:34.253315 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]   File "/usr/lib/python3.8/os.py", line 223, in makedirs
+[Sat Feb 26 14:11:34.253320 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036]     mkdir(name, mode)
+[Sat Feb 26 14:11:34.253326 2022] [wsgi:error] [pid 8834:tid 139937625024256] [remote 88.227.56.28:36036] PermissionError: [Errno 13] Permission denied: '/django-project/site/public/media/media'
+Exception ignored in: <function Local.__del__ at 0x7f45c0137310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f45c0137310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+[Sat Feb 26 14:12:03.688752 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:33885] Not Found: /admin/product_catalog_app/prudct
+[Sat Feb 26 14:12:15.026578 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301] Internal Server Error: /admin/product_catalog_app/product/
+[Sat Feb 26 14:12:15.026646 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301] Traceback (most recent call last):
+[Sat Feb 26 14:12:15.026661 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/backends/utils.py", line 85, in _execute
+[Sat Feb 26 14:12:15.026668 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     return self.cursor.execute(sql, params)
+[Sat Feb 26 14:12:15.026674 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 416, in execute
+[Sat Feb 26 14:12:15.026681 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     return Database.Cursor.execute(self, query, params)
+[Sat Feb 26 14:12:15.026687 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301] sqlite3.OperationalError: attempt to write a readonly database
+[Sat Feb 26 14:12:15.026694 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301] 
+[Sat Feb 26 14:12:15.026700 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301] The above exception was the direct cause of the following exception:
+[Sat Feb 26 14:12:15.030035 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301] 
+[Sat Feb 26 14:12:15.030058 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301] Traceback (most recent call last):
+[Sat Feb 26 14:12:15.030065 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+[Sat Feb 26 14:12:15.030071 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     response = get_response(request)
+[Sat Feb 26 14:12:15.030077 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+[Sat Feb 26 14:12:15.030083 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Sat Feb 26 14:12:15.030090 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 622, in wrapper
+[Sat Feb 26 14:12:15.030096 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     return self.admin_site.admin_view(view)(*args, **kwargs)
+[Sat Feb 26 14:12:15.030101 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+[Sat Feb 26 14:12:15.030108 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     response = view_func(request, *args, **kwargs)
+[Sat Feb 26 14:12:15.030114 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/views/decorators/cache.py", line 57, in _wrapped_view_func
+[Sat Feb 26 14:12:15.030120 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     response = view_func(request, *args, **kwargs)
+[Sat Feb 26 14:12:15.030126 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 236, in inner
+[Sat Feb 26 14:12:15.030132 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     return view(request, *args, **kwargs)
+[Sat Feb 26 14:12:15.030138 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+[Sat Feb 26 14:12:15.030144 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     return bound_method(*args, **kwargs)
+[Sat Feb 26 14:12:15.030150 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+[Sat Feb 26 14:12:15.030156 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     response = view_func(request, *args, **kwargs)
+[Sat Feb 26 14:12:15.030162 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1752, in changelist_view
+[Sat Feb 26 14:12:15.030168 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     response = self.response_action(request, queryset=cl.get_queryset(request))
+[Sat Feb 26 14:12:15.030174 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1417, in response_action
+[Sat Feb 26 14:12:15.030180 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     response = func(self, request, queryset)
+[Sat Feb 26 14:12:15.030225 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/actions.py", line 44, in delete_selected
+[Sat Feb 26 14:12:15.030233 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     modeladmin.log_deletion(request, obj, obj_display)
+[Sat Feb 26 14:12:15.030238 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 851, in log_deletion
+[Sat Feb 26 14:12:15.030244 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     return LogEntry.objects.log_action(
+[Sat Feb 26 14:12:15.030250 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/models.py", line 29, in log_action
+[Sat Feb 26 14:12:15.030257 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     return self.model.objects.create(
+[Sat Feb 26 14:12:15.030262 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+[Sat Feb 26 14:12:15.030268 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     return getattr(self.get_queryset(), name)(*args, **kwargs)
+[Sat Feb 26 14:12:15.030274 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/query.py", line 457, in create
+[Sat Feb 26 14:12:15.030280 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     obj.save(force_insert=True, using=self.db)
+[Sat Feb 26 14:12:15.030286 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 743, in save
+[Sat Feb 26 14:12:15.030293 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     self.save_base(using=using, force_insert=force_insert,
+[Sat Feb 26 14:12:15.030298 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 780, in save_base
+[Sat Feb 26 14:12:15.030304 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     updated = self._save_table(
+[Sat Feb 26 14:12:15.030309 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 885, in _save_table
+[Sat Feb 26 14:12:15.030315 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+[Sat Feb 26 14:12:15.030320 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 923, in _do_insert
+[Sat Feb 26 14:12:15.030326 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     return manager._insert(
+[Sat Feb 26 14:12:15.030332 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+[Sat Feb 26 14:12:15.030339 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     return getattr(self.get_queryset(), name)(*args, **kwargs)
+[Sat Feb 26 14:12:15.030346 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/query.py", line 1301, in _insert
+[Sat Feb 26 14:12:15.030352 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     return query.get_compiler(using=using).execute_sql(returning_fields)
+[Sat Feb 26 14:12:15.030365 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1441, in execute_sql
+[Sat Feb 26 14:12:15.030371 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     cursor.execute(sql, params)
+[Sat Feb 26 14:12:15.030377 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/backends/utils.py", line 99, in execute
+[Sat Feb 26 14:12:15.030383 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     return super().execute(sql, params)
+[Sat Feb 26 14:12:15.030389 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/backends/utils.py", line 67, in execute
+[Sat Feb 26 14:12:15.030395 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+[Sat Feb 26 14:12:15.030401 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/backends/utils.py", line 76, in _execute_with_wrappers
+[Sat Feb 26 14:12:15.030407 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     return executor(sql, params, many, context)
+[Sat Feb 26 14:12:15.030412 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/backends/utils.py", line 85, in _execute
+[Sat Feb 26 14:12:15.030418 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     return self.cursor.execute(sql, params)
+[Sat Feb 26 14:12:15.030424 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+[Sat Feb 26 14:12:15.030430 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     raise dj_exc_value.with_traceback(traceback) from exc_value
+[Sat Feb 26 14:12:15.030436 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/backends/utils.py", line 85, in _execute
+[Sat Feb 26 14:12:15.030442 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     return self.cursor.execute(sql, params)
+[Sat Feb 26 14:12:15.030448 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]   File "/django-project/venv/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 416, in execute
+[Sat Feb 26 14:12:15.030454 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301]     return Database.Cursor.execute(self, query, params)
+[Sat Feb 26 14:12:15.030460 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35301] django.db.utils.OperationalError: attempt to write a readonly database
+[Sat Feb 26 11:13:19.150293 2022] [core:error] [pid 8997:tid 140235472021248] (13)Permission denied: [client 88.227.56.28:33957] AH00035: access to /admin/product_catalog_app/ denied (filesystem path '/django-project/src/product_catalog') because search permissions are missing on a component of the path
+[Sat Feb 26 11:13:24.698820 2022] [core:error] [pid 8996:tid 140235455235840] (13)Permission denied: [client 88.227.56.28:36084] AH00035: access to / denied (filesystem path '/django-project/src/product_catalog') because search permissions are missing on a component of the path
+[Sat Feb 26 14:14:34.874062 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115] Internal Server Error: /admin/product_catalog_app/product/11/delete/
+[Sat Feb 26 14:14:34.874116 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115] Traceback (most recent call last):
+[Sat Feb 26 14:14:34.874135 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/backends/utils.py", line 85, in _execute
+[Sat Feb 26 14:14:34.874139 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return self.cursor.execute(sql, params)
+[Sat Feb 26 14:14:34.874143 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 416, in execute
+[Sat Feb 26 14:14:34.874146 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return Database.Cursor.execute(self, query, params)
+[Sat Feb 26 14:14:34.874150 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115] sqlite3.OperationalError: attempt to write a readonly database
+[Sat Feb 26 14:14:34.874153 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115] 
+[Sat Feb 26 14:14:34.874157 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115] The above exception was the direct cause of the following exception:
+[Sat Feb 26 14:14:34.874160 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115] 
+[Sat Feb 26 14:14:34.874164 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115] Traceback (most recent call last):
+[Sat Feb 26 14:14:34.874167 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+[Sat Feb 26 14:14:34.874171 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     response = get_response(request)
+[Sat Feb 26 14:14:34.874174 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+[Sat Feb 26 14:14:34.874178 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Sat Feb 26 14:14:34.874182 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 622, in wrapper
+[Sat Feb 26 14:14:34.874185 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return self.admin_site.admin_view(view)(*args, **kwargs)
+[Sat Feb 26 14:14:34.874189 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+[Sat Feb 26 14:14:34.874192 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     response = view_func(request, *args, **kwargs)
+[Sat Feb 26 14:14:34.874196 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/views/decorators/cache.py", line 57, in _wrapped_view_func
+[Sat Feb 26 14:14:34.874200 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     response = view_func(request, *args, **kwargs)
+[Sat Feb 26 14:14:34.874204 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 236, in inner
+[Sat Feb 26 14:14:34.874209 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return view(request, *args, **kwargs)
+[Sat Feb 26 14:14:34.874214 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+[Sat Feb 26 14:14:34.874221 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return bound_method(*args, **kwargs)
+[Sat Feb 26 14:14:34.874231 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+[Sat Feb 26 14:14:34.874235 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     response = view_func(request, *args, **kwargs)
+[Sat Feb 26 14:14:34.874239 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1864, in delete_view
+[Sat Feb 26 14:14:34.874243 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return self._delete_view(request, object_id, extra_context)
+[Sat Feb 26 14:14:34.874246 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1893, in _delete_view
+[Sat Feb 26 14:14:34.874250 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     self.log_deletion(request, obj, obj_display)
+[Sat Feb 26 14:14:34.874253 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 851, in log_deletion
+[Sat Feb 26 14:14:34.874257 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return LogEntry.objects.log_action(
+[Sat Feb 26 14:14:34.874261 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/models.py", line 29, in log_action
+[Sat Feb 26 14:14:34.874264 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return self.model.objects.create(
+[Sat Feb 26 14:14:34.874268 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+[Sat Feb 26 14:14:34.874271 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return getattr(self.get_queryset(), name)(*args, **kwargs)
+[Sat Feb 26 14:14:34.874275 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/query.py", line 457, in create
+[Sat Feb 26 14:14:34.874278 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     obj.save(force_insert=True, using=self.db)
+[Sat Feb 26 14:14:34.874283 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 743, in save
+[Sat Feb 26 14:14:34.874288 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     self.save_base(using=using, force_insert=force_insert,
+[Sat Feb 26 14:14:34.874293 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 780, in save_base
+[Sat Feb 26 14:14:34.874299 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     updated = self._save_table(
+[Sat Feb 26 14:14:34.874305 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 885, in _save_table
+[Sat Feb 26 14:14:34.874310 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+[Sat Feb 26 14:14:34.874316 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 923, in _do_insert
+[Sat Feb 26 14:14:34.874322 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return manager._insert(
+[Sat Feb 26 14:14:34.874332 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+[Sat Feb 26 14:14:34.874338 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return getattr(self.get_queryset(), name)(*args, **kwargs)
+[Sat Feb 26 14:14:34.874344 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/query.py", line 1301, in _insert
+[Sat Feb 26 14:14:34.874350 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return query.get_compiler(using=using).execute_sql(returning_fields)
+[Sat Feb 26 14:14:34.874355 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1441, in execute_sql
+[Sat Feb 26 14:14:34.874361 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     cursor.execute(sql, params)
+[Sat Feb 26 14:14:34.874366 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/backends/utils.py", line 99, in execute
+[Sat Feb 26 14:14:34.874372 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return super().execute(sql, params)
+[Sat Feb 26 14:14:34.874378 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/backends/utils.py", line 67, in execute
+[Sat Feb 26 14:14:34.874382 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+[Sat Feb 26 14:14:34.874386 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/backends/utils.py", line 76, in _execute_with_wrappers
+[Sat Feb 26 14:14:34.874389 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return executor(sql, params, many, context)
+[Sat Feb 26 14:14:34.874393 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/backends/utils.py", line 85, in _execute
+[Sat Feb 26 14:14:34.874396 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return self.cursor.execute(sql, params)
+[Sat Feb 26 14:14:34.874400 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+[Sat Feb 26 14:14:34.874404 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     raise dj_exc_value.with_traceback(traceback) from exc_value
+[Sat Feb 26 14:14:34.874407 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/backends/utils.py", line 85, in _execute
+[Sat Feb 26 14:14:34.874411 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return self.cursor.execute(sql, params)
+[Sat Feb 26 14:14:34.874414 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]   File "/django-project/venv/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 416, in execute
+[Sat Feb 26 14:14:34.874418 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115]     return Database.Cursor.execute(self, query, params)
+[Sat Feb 26 14:14:34.874421 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:37115] django.db.utils.OperationalError: attempt to write a readonly database
+[Sat Feb 26 14:16:27.234105 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216] Internal Server Error: /admin/product_catalog_app/product/add/
+[Sat Feb 26 14:16:27.234165 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216] Traceback (most recent call last):
+[Sat Feb 26 14:16:27.234170 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+[Sat Feb 26 14:16:27.234174 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     response = get_response(request)
+[Sat Feb 26 14:16:27.234178 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+[Sat Feb 26 14:16:27.234182 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Sat Feb 26 14:16:27.234185 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 622, in wrapper
+[Sat Feb 26 14:16:27.234189 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     return self.admin_site.admin_view(view)(*args, **kwargs)
+[Sat Feb 26 14:16:27.234193 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+[Sat Feb 26 14:16:27.234197 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     response = view_func(request, *args, **kwargs)
+[Sat Feb 26 14:16:27.234201 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/views/decorators/cache.py", line 57, in _wrapped_view_func
+[Sat Feb 26 14:16:27.234204 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     response = view_func(request, *args, **kwargs)
+[Sat Feb 26 14:16:27.234208 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 236, in inner
+[Sat Feb 26 14:16:27.234211 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     return view(request, *args, **kwargs)
+[Sat Feb 26 14:16:27.234215 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1670, in add_view
+[Sat Feb 26 14:16:27.234219 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     return self.changeform_view(request, None, form_url, extra_context)
+[Sat Feb 26 14:16:27.234222 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+[Sat Feb 26 14:16:27.234226 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     return bound_method(*args, **kwargs)
+[Sat Feb 26 14:16:27.234229 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+[Sat Feb 26 14:16:27.234233 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     response = view_func(request, *args, **kwargs)
+[Sat Feb 26 14:16:27.234237 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1549, in changeform_view
+[Sat Feb 26 14:16:27.234240 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     return self._changeform_view(request, object_id, form_url, extra_context)
+[Sat Feb 26 14:16:27.234244 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1599, in _changeform_view
+[Sat Feb 26 14:16:27.234251 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     self.save_model(request, new_object, form, not add)
+[Sat Feb 26 14:16:27.234255 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1108, in save_model
+[Sat Feb 26 14:16:27.234259 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     obj.save()
+[Sat Feb 26 14:16:27.234263 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 743, in save
+[Sat Feb 26 14:16:27.234266 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     self.save_base(using=using, force_insert=force_insert,
+[Sat Feb 26 14:16:27.234270 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 780, in save_base
+[Sat Feb 26 14:16:27.234274 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     updated = self._save_table(
+[Sat Feb 26 14:16:27.234277 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 885, in _save_table
+[Sat Feb 26 14:16:27.234281 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+[Sat Feb 26 14:16:27.234284 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/base.py", line 923, in _do_insert
+[Sat Feb 26 14:16:27.234288 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     return manager._insert(
+[Sat Feb 26 14:16:27.234291 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+[Sat Feb 26 14:16:27.234295 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     return getattr(self.get_queryset(), name)(*args, **kwargs)
+[Sat Feb 26 14:16:27.234299 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/query.py", line 1301, in _insert
+[Sat Feb 26 14:16:27.234302 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     return query.get_compiler(using=using).execute_sql(returning_fields)
+[Sat Feb 26 14:16:27.234306 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1440, in execute_sql
+[Sat Feb 26 14:16:27.234310 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     for sql, params in self.as_sql():
+[Sat Feb 26 14:16:27.234313 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1382, in as_sql
+[Sat Feb 26 14:16:27.234317 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     value_rows = [
+[Sat Feb 26 14:16:27.234320 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1383, in <listcomp>
+[Sat Feb 26 14:16:27.234324 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     [self.prepare_value(field, self.pre_save_val(field, obj)) for field in fields]
+[Sat Feb 26 14:16:27.234328 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1383, in <listcomp>
+[Sat Feb 26 14:16:27.234334 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     [self.prepare_value(field, self.pre_save_val(field, obj)) for field in fields]
+[Sat Feb 26 14:16:27.234338 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1334, in pre_save_val
+[Sat Feb 26 14:16:27.234342 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     return field.pre_save(obj, add=True)
+[Sat Feb 26 14:16:27.234345 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/fields/files.py", line 302, in pre_save
+[Sat Feb 26 14:16:27.234349 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     file.save(file.name, file.file, save=False)
+[Sat Feb 26 14:16:27.234362 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/db/models/fields/files.py", line 89, in save
+[Sat Feb 26 14:16:27.234365 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     self.name = self.storage.save(name, content, max_length=self.field.max_length)
+[Sat Feb 26 14:16:27.234369 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/core/files/storage.py", line 54, in save
+[Sat Feb 26 14:16:27.234372 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     name = self._save(name, content)
+[Sat Feb 26 14:16:27.234376 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]   File "/django-project/venv/lib/python3.8/site-packages/django/core/files/storage.py", line 279, in _save
+[Sat Feb 26 14:16:27.234380 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216]     fd = os.open(full_path, self.OS_OPEN_FLAGS, 0o666)
+[Sat Feb 26 14:16:27.234383 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36216] PermissionError: [Errno 13] Permission denied: '/django-project/site/public/media/20220226141608Logo.jpeg'
+[Sat Feb 26 14:18:38.835508 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:35756] Not Found: /login
+[Sat Feb 26 15:29:11.039040 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36526] Not Found: /favicon.ico
+[Sat Feb 26 15:36:23.248221 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 213.108.170.124:58231] Not Found: /phpmyadmin/
+[Sat Feb 26 15:56:39.336257 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 88.227.56.28:36556] Not Found: /sa
+[Sat Feb 26 15:57:29.684972 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 95.187.188.13:2921] Not Found: /favicon.ico
+[Sat Feb 26 15:57:44.405235 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 88.227.56.28:36417] Not Found: /favicon.ico
+[Sat Feb 26 16:09:12.930406 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 95.187.188.13:2153] Not Found: /favicon.ico
+[Sat Feb 26 16:30:18.442122 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 45.146.165.37:49916] Not Found: /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[Sat Feb 26 16:46:03.926769 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 104.237.137.242:59408] Not Found: /.git/config
+[Sat Feb 26 16:46:04.176496 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 104.237.137.242:59440] Not Found: /.git/config
+[Sat Feb 26 16:46:04.680245 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 104.237.137.242:59474] Not Found: /.git/config
+[Sat Feb 26 16:46:04.942283 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 104.237.137.242:59496] Not Found: /.git/config
+[Sat Feb 26 17:03:30.269377 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 45.146.165.37:45626] Not Found: /solr/admin/info/system
+[Sat Feb 26 17:06:02.732135 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.105.89.161:39233] Internal Server Error: /0bef
+[Sat Feb 26 17:06:02.732306 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.105.89.161:39233] Traceback (most recent call last):
+[Sat Feb 26 17:06:02.732348 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.105.89.161:39233]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+[Sat Feb 26 17:06:02.732388 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.105.89.161:39233]     response = get_response(request)
+[Sat Feb 26 17:06:02.732424 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.105.89.161:39233]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+[Sat Feb 26 17:06:02.732458 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.105.89.161:39233]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Sat Feb 26 17:06:02.732494 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.105.89.161:39233]   File "/django-project/src/product_catalog_app/views.py", line 47, in products
+[Sat Feb 26 17:06:02.732531 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.105.89.161:39233]     if (request.session['password'] != 'valid'):
+[Sat Feb 26 17:06:02.732583 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.105.89.161:39233]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 50, in __getitem__
+[Sat Feb 26 17:06:02.732634 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.105.89.161:39233]     return self._session[key]
+[Sat Feb 26 17:06:02.732673 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.105.89.161:39233] KeyError: 'password'
+[Sat Feb 26 17:28:32.173811 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 45.146.165.37:40072] Not Found: /index.php
+[Sat Feb 26 19:07:26.338045 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 45.146.165.37:46268] Not Found: /console/
+[Sat Feb 26 19:58:18.953178 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 45.146.165.37:39242] Not Found: /Autodiscover/Autodiscover.xml
+[Sat Feb 26 20:26:38.959618 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 45.146.165.37:60888] Not Found: /_ignition/execute-solution
+[Sat Feb 26 20:27:19.812446 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 95.187.188.13:2683] Not Found: /favicon.ico
+[Sat Feb 26 20:28:56.110641 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 113.170.48.189:32933] Not Found: /setup.cgi
+[Sat Feb 26 21:20:58.131140 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 94.225.23.223:63108] Not Found: /.env
+[Sat Feb 26 21:20:58.625683 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 94.225.23.223:63225] Forbidden (CSRF cookie not set.): /
+[Sat Feb 26 18:41:02.381964 2022] [core:error] [pid 8997:tid 140235480413952] [client 45.146.165.37:32930] AH00126: Invalid URI in request POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+[Sat Feb 26 22:32:37.842366 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 130.255.166.120:38195] Not Found: /robots.txt
+[Sat Feb 26 22:32:37.928617 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 130.255.166.24:58737] Not Found: /humans.txt
+[Sat Feb 26 22:32:38.011025 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 130.255.166.11:50671] Not Found: /ads.txt
+[Sat Feb 26 23:30:06.199469 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 35.247.116.70:60258] Not Found: /boaform/admin/formLogin
+[Sun Feb 27 00:05:46.563979 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 95.187.188.13:1958] Not Found: /favicon.ico
+[Sun Feb 27 00:33:29.051030 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 96.241.108.207:50523] Not Found: /favicon.ico
+[Sun Feb 27 01:03:51.396747 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 34.102.48.89:51737] Not Found: /.env
+[Sun Feb 27 01:03:51.750429 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 34.102.48.89:55759] Forbidden (CSRF cookie not set.): /
+[Sun Feb 27 03:32:33.262562 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 192.241.217.35:51958] Internal Server Error: /ReportServer
+[Sun Feb 27 03:32:33.262617 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 192.241.217.35:51958] Traceback (most recent call last):
+[Sun Feb 27 03:32:33.262624 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 192.241.217.35:51958]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+[Sun Feb 27 03:32:33.262628 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 192.241.217.35:51958]     response = get_response(request)
+[Sun Feb 27 03:32:33.262633 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 192.241.217.35:51958]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+[Sun Feb 27 03:32:33.262637 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 192.241.217.35:51958]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Sun Feb 27 03:32:33.262642 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 192.241.217.35:51958]   File "/django-project/src/product_catalog_app/views.py", line 47, in products
+[Sun Feb 27 03:32:33.262646 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 192.241.217.35:51958]     if (request.session['password'] != 'valid'):
+[Sun Feb 27 03:32:33.262650 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 192.241.217.35:51958]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 50, in __getitem__
+[Sun Feb 27 03:32:33.262654 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 192.241.217.35:51958]     return self._session[key]
+[Sun Feb 27 03:32:33.262658 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 192.241.217.35:51958] KeyError: 'password'
+[Sun Feb 27 04:31:28.932431 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 185.220.101.131:11734] Not Found: /favicon.ico
+[Sun Feb 27 05:02:06.237994 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 20.114.133.139:54660] Not Found: /robots.txt
+[Sun Feb 27 05:26:41.144997 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 185.254.196.223:50490] Not Found: /.env
+[Sun Feb 27 05:26:44.598795 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 185.254.196.223:54412] Forbidden (CSRF cookie not set.): /
+[Sun Feb 27 06:19:42.307525 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.104.138.223:10787] Internal Server Error: /fuN3
+[Sun Feb 27 06:19:42.307578 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.104.138.223:10787] Traceback (most recent call last):
+[Sun Feb 27 06:19:42.307583 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.104.138.223:10787]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+[Sun Feb 27 06:19:42.307588 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.104.138.223:10787]     response = get_response(request)
+[Sun Feb 27 06:19:42.307592 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.104.138.223:10787]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+[Sun Feb 27 06:19:42.307596 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.104.138.223:10787]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Sun Feb 27 06:19:42.307600 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.104.138.223:10787]   File "/django-project/src/product_catalog_app/views.py", line 47, in products
+[Sun Feb 27 06:19:42.307604 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.104.138.223:10787]     if (request.session['password'] != 'valid'):
+[Sun Feb 27 06:19:42.307638 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.104.138.223:10787]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 50, in __getitem__
+[Sun Feb 27 06:19:42.307643 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.104.138.223:10787]     return self._session[key]
+[Sun Feb 27 06:19:42.307646 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 172.104.138.223:10787] KeyError: 'password'
+[Sun Feb 27 06:27:29.021678 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 13.56.161.122:55032] Not Found: /.git/config
+[Sun Feb 27 06:27:29.335034 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 13.56.161.122:55058] Not Found: /.git/config
+[Sun Feb 27 06:27:30.274309 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 13.56.161.122:55134] Not Found: /.git/config
+[Sun Feb 27 06:27:30.585339 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 13.56.161.122:55164] Not Found: /.git/config
+[Sun Feb 27 06:52:46.563532 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 103.28.70.140:56167] Not Found: /.env
+[Sun Feb 27 06:52:47.142061 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 103.28.70.140:56212] Forbidden (CSRF cookie not set.): /
+[Sun Feb 27 08:26:57.658534 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 5.8.10.202:44898] Internal Server Error: /aaa9
+[Sun Feb 27 08:26:57.659567 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 5.8.10.202:44898] Traceback (most recent call last):
+[Sun Feb 27 08:26:57.659579 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 5.8.10.202:44898]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+[Sun Feb 27 08:26:57.659584 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 5.8.10.202:44898]     response = get_response(request)
+[Sun Feb 27 08:26:57.659588 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 5.8.10.202:44898]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+[Sun Feb 27 08:26:57.659592 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 5.8.10.202:44898]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Sun Feb 27 08:26:57.659597 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 5.8.10.202:44898]   File "/django-project/src/product_catalog_app/views.py", line 47, in products
+[Sun Feb 27 08:26:57.659601 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 5.8.10.202:44898]     if (request.session['password'] != 'valid'):
+[Sun Feb 27 08:26:57.659605 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 5.8.10.202:44898]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 50, in __getitem__
+[Sun Feb 27 08:26:57.659609 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 5.8.10.202:44898]     return self._session[key]
+[Sun Feb 27 08:26:57.659613 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 5.8.10.202:44898] KeyError: 'password'
+[Sun Feb 27 08:26:57.968181 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 5.8.10.202:46230] Internal Server Error: /aab9
+[Sun Feb 27 08:26:57.968221 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 5.8.10.202:46230] Traceback (most recent call last):
+[Sun Feb 27 08:26:57.968226 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 5.8.10.202:46230]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+[Sun Feb 27 08:26:57.968230 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 5.8.10.202:46230]     response = get_response(request)
+[Sun Feb 27 08:26:57.968235 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 5.8.10.202:46230]   File "/django-project/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+[Sun Feb 27 08:26:57.968239 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 5.8.10.202:46230]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Sun Feb 27 08:26:57.968277 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 5.8.10.202:46230]   File "/django-project/src/product_catalog_app/views.py", line 47, in products
+[Sun Feb 27 08:26:57.968282 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 5.8.10.202:46230]     if (request.session['password'] != 'valid'):
+[Sun Feb 27 08:26:57.968286 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 5.8.10.202:46230]   File "/django-project/venv/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 50, in __getitem__
+[Sun Feb 27 08:26:57.968290 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 5.8.10.202:46230]     return self._session[key]
+[Sun Feb 27 08:26:57.968293 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 5.8.10.202:46230] KeyError: 'password'
+[Sun Feb 27 08:31:26.736299 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 185.254.196.223:42746] Not Found: /.env
+[Sun Feb 27 08:31:26.963376 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 185.254.196.223:44942] Forbidden (CSRF cookie not set.): /
+[Sun Feb 27 08:31:50.202687 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 120.85.92.45:6846] Not Found: /HNAP1/
+[Sun Feb 27 05:32:00.600223 2022] [wsgi:error] [pid 8997:tid 140235623089920] [client 120.85.92.45:6846] mod_wsgi (pid=8997): Request data read error when proxying data to daemon process: Partial results are valid but processing is incomplete.
+[Sun Feb 27 08:50:36.848696 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 119.179.217.9:53336] Not Found: /boaform/admin/formLogin
+[Sun Feb 27 10:06:16.179069 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 20.115.108.214:7587] Not Found: /.env
+[Sun Feb 27 11:31:23.175244 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 185.254.196.223:41190] Not Found: /.env
+[Sun Feb 27 11:31:24.122273 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 185.254.196.223:44190] Forbidden (CSRF cookie not set.): /
+[Sun Feb 27 11:54:50.259163 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 78.15.13.145:51099] Not Found: /phpmyadmin/
+[Sun Feb 27 12:04:35.828684 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 128.1.248.42:55688] Not Found: /Telerik.Web.UI.WebResource.axd
+[Sun Feb 27 12:47:44.387684 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 211.117.60.27:51979] Not Found: /index.php
+[Sun Feb 27 12:47:44.645590 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 211.117.60.27:51979] Not Found: /phpmyadmin/index.php
+[Sun Feb 27 13:03:35.346081 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 54.241.90.15:59812] Not Found: /.git/config
+[Sun Feb 27 13:03:35.660978 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 54.241.90.15:59842] Not Found: /.git/config
+[Sun Feb 27 13:03:36.597601 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 54.241.90.15:59966] Not Found: /.git/config
+[Sun Feb 27 13:03:36.907219 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 54.241.90.15:59994] Not Found: /.git/config
+[Sun Feb 27 14:31:29.680647 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 115.49.190.209:37173] Not Found: /HNAP1/
+[Sun Feb 27 11:31:40.755160 2022] [wsgi:error] [pid 8997:tid 140235472021248] [client 115.49.190.209:37173] mod_wsgi (pid=8997): Request data read error when proxying data to daemon process: The timeout specified has expired.
+[Sun Feb 27 14:32:00.664683 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 185.254.196.223:59510] Not Found: /.env
+[Sun Feb 27 14:32:02.190096 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 185.254.196.223:60792] Forbidden (CSRF cookie not set.): /
+[Sun Feb 27 16:29:10.538319 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 209.141.61.40:40504] Not Found: /pma/scripts/setup.php
+[Sun Feb 27 16:51:10.253932 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 156.146.35.178:12124] Not Found: /.env
+[Sun Feb 27 16:51:11.084407 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 156.146.35.178:12198] Forbidden (CSRF cookie not set.): /
+[Sun Feb 27 17:31:34.674776 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 185.254.196.223:54408] Not Found: /.env
+[Sun Feb 27 17:31:35.245755 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 185.254.196.223:55462] Forbidden (CSRF cookie not set.): /
+[Sun Feb 27 18:15:14.245854 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 45.146.165.37:37544] Not Found: /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[Sun Feb 27 18:49:27.219981 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 45.146.165.37:48722] Not Found: /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[Sun Feb 27 19:03:06.313056 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 148.251.173.52:59532] Not Found: /c.php
+[Sun Feb 27 19:18:36.907273 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 45.146.165.37:45684] Not Found: /solr/admin/info/system
+[Sun Feb 27 19:29:54.786696 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 45.146.165.37:54432] Not Found: /index.php
+[Sun Feb 27 19:35:26.822322 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 109.237.103.123:58538] Not Found: /.env
+[Sun Feb 27 19:36:34.222113 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 202.73.34.226:57742] Not Found: /.env
+[Sun Feb 27 19:36:35.122589 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 202.73.34.226:57786] Forbidden (CSRF cookie not set.): /
+[Sun Feb 27 20:33:11.512066 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 185.254.196.223:37718] Not Found: /.env
+[Sun Feb 27 20:33:12.000546 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 185.254.196.223:38348] Forbidden (CSRF cookie not set.): /
+[Sun Feb 27 21:42:34.520625 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 45.146.165.37:59854] Not Found: /console/
+[Sun Feb 27 22:15:19.919301 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 45.146.165.37:50704] Not Found: /Autodiscover/Autodiscover.xml
+[Sun Feb 27 22:54:15.017153 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 45.146.165.37:33796] Not Found: /_ignition/execute-solution
+[Sun Feb 27 23:17:09.773080 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 13.67.95.76:1024] Not Found: /wp-includes/wlwmanifest.xml
+[Sun Feb 27 23:17:09.934215 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 13.67.95.76:1024] Not Found: /xmlrpc.php
+[Sun Feb 27 23:17:10.259499 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 13.67.95.76:1024] Not Found: /blog/wp-includes/wlwmanifest.xml
+[Sun Feb 27 23:17:10.419398 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 13.67.95.76:1024] Not Found: /web/wp-includes/wlwmanifest.xml
+[Sun Feb 27 23:17:10.581825 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 13.67.95.76:1024] Not Found: /wordpress/wp-includes/wlwmanifest.xml
+[Sun Feb 27 23:17:10.744216 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 13.67.95.76:1024] Not Found: /website/wp-includes/wlwmanifest.xml
+[Sun Feb 27 23:17:10.905935 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 13.67.95.76:1024] Not Found: /wp/wp-includes/wlwmanifest.xml
+[Sun Feb 27 23:17:11.068321 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 13.67.95.76:1024] Not Found: /news/wp-includes/wlwmanifest.xml
+[Sun Feb 27 23:17:11.229919 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 13.67.95.76:1024] Not Found: /2020/wp-includes/wlwmanifest.xml
+[Sun Feb 27 23:17:11.392722 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 13.67.95.76:1024] Not Found: /2019/wp-includes/wlwmanifest.xml
+[Sun Feb 27 23:17:11.553987 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 13.67.95.76:1024] Not Found: /shop/wp-includes/wlwmanifest.xml
+[Sun Feb 27 23:17:11.713474 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 13.67.95.76:1024] Not Found: /wp1/wp-includes/wlwmanifest.xml
+[Sun Feb 27 23:17:11.874774 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 13.67.95.76:1024] Not Found: /test/wp-includes/wlwmanifest.xml
+[Sun Feb 27 23:17:12.037081 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 13.67.95.76:1024] Not Found: /wp2/wp-includes/wlwmanifest.xml
+[Sun Feb 27 23:17:12.197722 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 13.67.95.76:1024] Not Found: /site/wp-includes/wlwmanifest.xml
+[Sun Feb 27 23:17:12.358015 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 13.67.95.76:1024] Not Found: /cms/wp-includes/wlwmanifest.xml
+[Sun Feb 27 23:17:12.520410 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 13.67.95.76:1024] Not Found: /sito/wp-includes/wlwmanifest.xml
+[Sun Feb 27 23:31:16.690024 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 185.254.196.223:37668] Not Found: /.env
+[Sun Feb 27 23:31:17.185880 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 185.254.196.223:38752] Forbidden (CSRF cookie not set.): /
+[Sun Feb 27 23:53:10.558010 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 212.192.241.99:41844] Not Found: /config/getuser
+[Sun Feb 27 20:56:25.255443 2022] [core:error] [pid 8997:tid 140235480413952] [client 45.146.165.37:39844] AH00126: Invalid URI in request POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+[Mon Feb 28 00:19:10.809580 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 192.241.216.206:43762] Not Found: /manager/text/list
+[Mon Feb 28 00:59:05.500393 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 34.102.48.89:61476] Not Found: /.env
+[Mon Feb 28 00:59:05.833211 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 34.102.48.89:61479] Forbidden (CSRF cookie not set.): /
+[Mon Feb 28 02:11:39.429837 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 192.169.177.208:56823] Not Found: /.env
+[Mon Feb 28 02:11:39.829979 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 192.169.177.208:57138] Forbidden (CSRF cookie not set.): /
+[Mon Feb 28 02:33:04.567854 2022] [wsgi:error] [pid 8995:tid 140235601090304] [remote 185.254.196.223:49332] Not Found: /.env
+[Mon Feb 28 02:33:04.707661 2022] [wsgi:error] [pid 8995:tid 140235643053824] [remote 185.254.196.223:49888] Forbidden (CSRF cookie not set.): /
+Exception ignored in: <function Local.__del__ at 0x7f8b2428b310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f8b2428b310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f8b1e26f430>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+[Mon Feb 28 09:38:05.114588 2022] [wsgi:error] [pid 36563:tid 140235513984768] [client 182.121.156.122:55890] mod_wsgi (pid=36563): Request data read error when proxying data to daemon process: The timeout specified has expired.
+[Mon Feb 28 21:31:27.902687 2022] [authz_core:error] [pid 36563:tid 140235539162880] [client 5.8.10.202:57818] AH01630: client denied by server configuration: /django-project/src/product_catalog/wsgi.py
+Exception ignored in: <function Local.__del__ at 0x7f8b24285310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f8b24285310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+[Tue Mar 01 00:11:38.153256 2022] [core:error] [pid 49324:tid 140235497199360] [client 45.146.165.37:53148] AH00126: Invalid URI in request POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+[Tue Mar 01 07:26:50.165745 2022] [wsgi:error] [pid 49324:tid 140235463628544] [client 180.188.249.134:47641] mod_wsgi (pid=49324): Request data read error when proxying data to daemon process: The timeout specified has expired.
+Exception ignored in: <function Local.__del__ at 0x7f8b24285310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f8b24285310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+[Wed Mar 02 04:12:57.622136 2022] [core:error] [pid 65002:tid 140235648268032] [client 45.146.165.37:46226] AH00126: Invalid URI in request POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+Exception ignored in: <function Local.__del__ at 0x7f8b24287310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f8b24287310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f8b1eb82040>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+[Thu Mar 03 06:06:35.820373 2022] [core:error] [pid 82273:tid 140235726980864] [client 45.146.165.37:48630] AH00126: Invalid URI in request POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+Exception ignored in: <function Local.__del__ at 0x7f8b24285310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f8b24285310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+[Fri Mar 04 08:49:28.227957 2022] [core:error] [pid 99930:tid 140235547555584] [client 45.146.165.37:51120] AH00126: Invalid URI in request POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+Exception ignored in: <function Local.__del__ at 0x7f8b24285310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f8b24285310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+[Sat Mar 05 21:26:07.308453 2022] [wsgi:error] [pid 138229:tid 140235522377472] [client 117.215.208.171:47502] mod_wsgi (pid=138229): Request data read error when proxying data to daemon process: The timeout specified has expired.
+Exception ignored in: <function Local.__del__ at 0x7f8b24285310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+[Sun Mar 06 04:16:20.379543 2022] [core:error] [pid 178022:tid 140235623089920] [client 45.146.165.37:35316] AH00126: Invalid URI in request POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+Exception ignored in: <function Local.__del__ at 0x7f8b24285310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+Exception ignored in: <function Local.__del__ at 0x7f8b24285310>
+Traceback (most recent call last):
+  File "/django-project/venv/lib/python3.8/site-packages/asgiref/local.py", line 94, in __del__
+NameError: name 'TypeError' is not defined
+[Mon Mar 07 07:06:45.585394 2022] [core:error] [pid 194363:tid 140235513984768] [client 45.146.165.37:35172] AH00126: Invalid URI in request POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
