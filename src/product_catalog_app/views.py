@@ -1,4 +1,6 @@
 from django.shortcuts import render,redirect,get_object_or_404
+from django.contrib.auth.decorators import login_required
+
 from management.models import Pin
 from .models import Product,Category
 from .forms import PasswordForm
@@ -67,33 +69,8 @@ def products(request,category_slug=None):
                                               })
 
 
-
-
-                    
-# def login_form(request):
-#     """ supposed to check password now adds a password"""
-#     if request.method !=  'POST':
-#         # No data submitted; create a blank form.
-#         form = PasswordForm()
-#     else:
-#         # POST data submitted; process data.
-#         form = PasswordForm(data = request.POST)
-#         if form.is_valid():
-#             sample_instance = Pin.objects.get(id=1)
-#             value_of_field = sample_instance.passcode
-#             passcode = form['passcode'].value()
-    
-        
-
-#             if value_of_field == passcode:
-#                 # form.save()
-#                 print("*******************\nIt's the same")
-#                 return redirect('product_catalog_app:products')
-#             else:
-#                 print("*******************\nMission failed , we will get them next time")
-         
-
-#     context = {'form' : form}
-#     return render(request, 'product_catalog_app/loginform.html',context)
-
-
+@login_required
+def employee_page(request):
+        password_object = Pin.objects.get(id=1).passcode
+        context = {"pin":password_object}
+        return render(request, "product_catalog_app/employee.html",context)

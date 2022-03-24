@@ -36,6 +36,7 @@ INSTALLED_APPS = [
     # My Apps
     'product_catalog_app',
     'django_crontab',
+    'users',
     'management',
     'django_cleanup.apps.CleanupConfig',
    
@@ -131,6 +132,7 @@ STATIC_URL = 'static/'
 STATIC_ROOT = '/django-project/site/public/static'
 MEDIA_URL = '/media/'
 MEDIA_ROOT = '/django-project/site/public/media'
+
 
 
 # Default primary key field type

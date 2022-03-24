@@ -28,6 +28,7 @@ class Category(models.Model):
         return self.name
 
 
+
 def filepath(request,filename):
     old_filename = filename
     timeNow = datetime.datetime.now().strftime('%Y%m%d%H:%M:%W')
@@ -36,11 +37,14 @@ def filepath(request,filename):
 
 
 
+     
+
 class Product(models.Model):
     """ A Product that will be displayed"""
 
     name = models.CharField(max_length=200)
-    photo = models.ImageField(upload_to=filepath,null=True, blank = False)
+    item_number = models.CharField(max_length=200)
+    picture = models.ImageField(upload_to=filepath,null=True, blank = True)
     category = models.ForeignKey(Category,on_delete=models.CASCADE)
 
    

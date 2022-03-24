@@ -10,6 +10,7 @@ urlpatterns = [
     path('login/', views.login_form, name='login_form'),
     path('',views.index,name = 'index'),
     path('products/', views.products, name='products'),
+    path('employee/',views.employee_page,name="employee_page"),
    
   
     path('<slug:category_slug>', views.products, name='product_by_category'),
