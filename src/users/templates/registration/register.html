@@ -5,6 +5,27 @@
 {% block head_title %}{% trans "Sign In" %}{% endblock %}
 
 {% block content %}
+<style type="text/css">
+  input[type="text"]:-moz-placeholder {
+      text-align: right;
+  }
+  input[type="text"]:-ms-input-placeholder {
+      text-align: right;
+  }
+  input[type="text"]::-webkit-input-placeholder {
+      text-align: right;
+  }
+  input[type="password"]:-moz-placeholder {
+      text-align: right;
+  }
+  input[type="password"]:-ms-input-placeholder {
+      text-align: right;
+  }
+  input[type="password"]::-webkit-input-placeholder {
+      text-align: right;
+  }
+  
+  </style>
   <main>
     <div class="container">
       <section class="mb-4">
@@ -12,9 +33,40 @@
           <div class='col-6 offset-3'>
             <h1 style = "text-align: right;">{% trans "إنشاء حساب" %}</h1>
             <p style="text-align: right;"> هل لديك حساب؟ ثم الرجاء <a href="{% url 'account_login' %}">تسجيل الدخول</a>.</p>
+
+            <form id="login-form" method="post" action="{% url 'users:register' %}">
+              {% csrf_token %}
+              <div class="form-group" style="text-align: right;">
+                <label for="exampleInputEmail1">اسم المستخدم</label>
+                <input type="text" name="username" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="اسم المستخدم">
+              </div>
+              <div class="form-group" style="text-align: right;">
+                <label for="email">بريد الكتروني</label>
+                <input type="text" name="email" class="form-control" id="email" placeholder="بريد الكتروني">
+              </div>
+              <div class="form-group" style="text-align: right;">
+                <label for="exampleInputPassword1">كلمة المرور</label>
+                <input type="password" name="password1" class="form-control" id="exampleInputPassword1" placeholder="كلمة المرور">
+              </div>
+              <div class="form-group" style="text-align: right;">
+                <label for="exampleInputPassword2">كلمة السر مجدداً</label>
+                <input type="password" name="password2" class="form-control" id="exampleInputPassword2" placeholder="كلمة المرور">
+              </div>
+              <!-- <button type="submit" class="btn btn-primary">Submit</button> -->
+
+              {% if form.errors %}
+                    <p style="text-align: right;" class=" label label-danger">
+                        بعض الحقول مفقودة أو غير صحيحة
+                    </p>
+                {% endif %}
+
+              <input type="submit" value="إنشاء حساب" 
+              class="btn btn-primary pull-right" />
+               <input type="hidden" name="next" value="{{ next }}" />
+            </form>
       
           
-            <form id="login-form" method="post" 
+            <!-- <form id="login-form" method="post" 
             action="{% url 'users:register' %}">
                 {% csrf_token %}
             
@@ -54,7 +106,7 @@
                 <input type="submit" value="تسجيل الدخول" 
                 class="btn btn-primary pull-right" />
          <input type="hidden" name="next" value="{{ next }}" />
-            </form>
+            </form> -->
           </div>
         </div>
       </section>
