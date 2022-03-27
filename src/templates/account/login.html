@@ -1,0 +1,68 @@
+{% extends "account/base.html" %}
+{% load i18n %}
+{% load crispy_forms_tags %}
+
+{% block head_title %}{% trans "Sign In" %}{% endblock %}
+
+{% block content %}
+  <main>
+    <div class="container">
+      <section class="mb-4">
+        <div class="row wow fadeIn">
+          <div class='col-6 offset-3'>
+          <h1 style="text-align: right;">{% trans "تسجيل الدخول" %}</h1>
+
+    
+
+         
+
+          <div class="socialaccount_ballot">
+            <ul class="socialaccount_providers">
+              {% include "socialaccount/snippets/provider_list.html" with process="login" %}
+            </ul>
+          </div>
+
+      
+  
+          <p style = "text-align: right;">إذا لم تقم بإنشاء حساب بعد ، من فضلك
+            <a style = "text-align: right;" href="{% url 'users:register' %}">إنشاء حساب</a> </p>
+      
+          
+            <form id="login-form" method="post" 
+                  action="{% url 'product_catalog_app:login_form' %}">
+                {% csrf_token %}
+              
+                <input type="hidden" name="next" value="{{ next }}" />
+  
+                <table class="table">
+                    <tr>
+              
+                        <td><input id="id_username" name="username" 
+                                   type="text" class="form-control"></td>
+                        <td><label for="id_username">اسم المستخدم</label></td>
+                    </tr>
+                    <tr>
+                        
+                        <td><input id="id_password" name="password" 
+                                   type="password" class="form-control"></td>
+                        <td><label for="id_password">كلمة المرور</label></td>
+                    </tr>
+                </table>
+                {% if form.errors %}
+                    <p class=" label label-danger">
+                        Your username and password didn't match. 
+                        Please try again.
+                    </p>
+                {% endif %}
+
+                <input type="submit" value="تسجيل الدخول" 
+                       class="btn btn-primary pull-right" />
+                <input type="hidden" name="next" value="{{ next }}" />
+            </form>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+{% endblock %}

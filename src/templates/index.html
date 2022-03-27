@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+{% block content %}
+<style>
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
+
+a {
+	color :white
+}
+
+.mobileShow { display: none;}
+   /* Smartphone Portrait and Landscape */
+   @media only screen
+   and (min-device-width : 320px)
+   and (max-device-width : 480px){ .mobileShow { display: inline;}}
+
+
+   .mobileHide { display: inline;}
+   /* Smartphone Portrait and Landscape */
+   @media only screen
+   and (min-device-width : 320px)
+   and (max-device-width : 480px){  .mobileHide { display: none;}}
+
+</style>
+<main>
+
+
+
+
+
+
+<!-- <div class="container">
+	<div class="row justify-content-center">
+		<span class="text-center">
+			Al Yam Modern for Fashion
+		</span>
+	
+	</div>
+</div> -->
+
+
+<div class="jumbotron text-center">
+    <h1>Al Yam Modern for Fashion</h1>
+    <p>	  لبيع الملابس الجاهزة بالجملة</p>
+
+
+
+	<div class="btn-group mobileHide" role="group" aria-label="Basic example">
+		<button type="button" class="btn btn-primary"><a  href="/products/"><h3 class="text-center">كتالوج المنتجات</h3></a></button>
+		<button type="button" class="btn btn-primary"><a  href="/admin/"><h3 class="text-center">موظف</h3></a></button>
+	  </div> 
+
+	<div class = "mobileShow">
+	<button type="button" class="btn btn-primary btn-lg btn-block"><a  href="/products/"><h3 class="text-center">كتالوج المنتجات</h3></a></button>
+	<button type="button" class="btn btn-primary btn-lg btn-block"><a  href="/admin/"><h3 class="text-center">موظف</h3></a></button>
+
+</div>
+
+  </div>
+
+
+
+
+
+
+
+</main>
+	
+
+{% endblock content %}
