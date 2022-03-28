@@ -32,7 +32,7 @@ def login_form(request):
         if user is not None:
             if user.is_active:
                 login(request, user)
-                return render(request, 'index.html')
+                return render(request, 'home.html')
             else:
                 pass
         
