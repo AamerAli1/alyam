@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
+{% load static %}
 <style>
 a:link { text-decoration: none; }
 
@@ -17,6 +18,10 @@ a {
 	color :white
 }
 
+
+.arabic{
+	text-align: right;
+}
 .mobileShow { display: none;}
    /* Smartphone Portrait and Landscape */
    @media only screen
@@ -30,44 +35,141 @@ a {
    and (min-device-width : 320px)
    and (max-device-width : 480px){  .mobileHide { display: none;}}
 
+   
+
 </style>
+	<link href="{% static 'css/style2.css' %}" rel="stylesheet">
 <main>
 
 
 
+<div class="p-5 text-center	">
+    <h1 class="mb-3">Al Yam Modern for Fashion</h1>
+    <h4 class="mb-3">لبيع الملابس الجاهزة بالجملة</h4>
 
 
-
-<!-- <div class="container">
-	<div class="row justify-content-center">
-		<span class="text-center">
-			Al Yam Modern for Fashion
-		</span>
-	
-	</div>
-</div> -->
-
-
-<div class="jumbotron text-center">
-    <h1>Al Yam Modern for Fashion</h1>
-    <p>	  لبيع الملابس الجاهزة بالجملة</p>
-
-
-
+  
 	<div class="btn-group mobileHide" role="group" aria-label="Basic example">
-		<button type="button" class="btn btn-primary"><a  href="/products/"><h3 class="text-center">كتالوج المنتجات</h3></a></button>
-		<button type="button" class="btn btn-primary"><a  href="/admin/"><h3 class="text-center">موظف</h3></a></button>
+		<button type="button" class="btn btn-primary"><a  href="/products/"><h3 style="color: white;" class="text-center">كتالوج المنتجات</h3></a></button>
+		<button type="button" class="btn btn-primary"><a  href="/admin/"><h3 style="color: white;" class="text-center">موظف</h3></a></button>
 	  </div> 
 
 	<div class = "mobileShow">
-	<button type="button" class="btn btn-primary btn-lg btn-block"><a  href="/products/"><h3 class="text-center">كتالوج المنتجات</h3></a></button>
-	<button type="button" class="btn btn-primary btn-lg btn-block"><a  href="/admin/"><h3 class="text-center">موظف</h3></a></button>
-
-</div>
+	<button type="button" class="btn btn-primary btn-lg btn-block"><a style="color: white;" href="/products/"><h3 class="text-center">كتالوج المنتجات</h3></a></button>
+	<button type="button" class="btn btn-primary btn-lg btn-block"><a style="color: white;" href="/admin/"><h3 class="text-center">موظف</h3></a></button>
+  </div>
 
   </div>
 
 
+<section id="about" class="about">
+	<div class="container" data-aos="fade-up">
+
+	  <div class="section-title">
+		<h2>من نحن</h2>
+	  </div>
+
+	  <div dir="rtl" class="row content">
+
+		<div class="col-lg-6 pt-4 pt-lg-0 arabic" >
+			<p >
+				عندما تبدأ بتصميم هوية إلكترونية لشركتك فإن الاعتماد على جودة الصور وروعة التصاميم لن يكون كافيًا بالتأكيد، فلا بد من الاستثمار في قوة الكلمة، في العادة يركّز رواد الأعمال أثناء إعداد المواقع الإلكترونية لشركاتهم على تقديم أفضل محتوى من خلال كتابة الملف التعريفي للشركة أو النبذة التعريفية_ البروفايل، باحترافية عالية
+			</p>
+		  
+		  </div>
+
+	
+		<div class="col-lg-6 arabic">
+		  <p>
+			نحن الشركة الرائدة في جدة في تصدير أجود أنواع الألبسة النسائيةنحن الشركة الرائدة في جدة في تصدير أجود أنواع الألبسة النسائية	نحن الشركة الرائدة في جدة في تصدير أجود أنواع الألبسة النسائية
+		  </p>
+		  <ul >
+			<li> أكثر من 20 عاما من الخبرة</li>
+			<li> قماش عالي الجودة</li>
+			<li> مجموعة متنوعة للغاية</li>
+		  </ul>
+		</div>
+	
+	
+	  </div>
+
+	</div>
+  </section><!-- End About Us Section -->
+
+
+  <section id="contact" class="contact">
+	<div class="container" data-aos="fade-up">
+
+	  <div class="section-title">
+		<h2>تواصل معنا</h2>
+	  </div>
+
+	  <div class="row">
+
+		
+
+		<div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+		  <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+			<div class="row">
+			  <div class="form-group col-md-6 arabic">
+				<label for="name">بريدك الالكتروني</label>
+				<input type="email" class="form-control" name="email" id="email" required>
+			  </div>
+			  <div class="form-group col-md-6 arabic">
+				<label for="name">اسمك</label>
+				<input type="text" name="name" class="form-control" id="name" required>
+			  </div>
+			
+			</div>
+			<div class="form-group arabic">
+			  <label for="name">الموضوع</label>
+			  <input type="text" class="form-control" name="subject" id="subject" required>
+			</div>
+			<div class="form-group arabic">
+			  <label for="name">الرسالة</label>
+			  <textarea class="form-control" name="message" rows="10" required></textarea>
+			</div>
+			<div class="my-3">
+			  <div class="loading">Loading</div>
+			  <div class="error-message"></div>
+			  <div class="sent-message">Your message has been sent. Thank you!</div>
+			</div>
+			<div class="text-center"><button type="submit">أرسل الرسالة</button></div>
+		  </form>
+		</div>
+
+		<div class="col-lg-5 d-flex align-items-stretch">
+			<div class="info">
+				
+			  <div class="address arabic" >
+				<i class="fas fa-map-marked-alt"></i>	
+				<h4>:موقعنا</h4>
+				<p>جدة , المملكة العربية السعودية</p>
+			  </div>
+  
+			  <div class="email arabic" >
+				<i class="far fa-envelope"></i>
+				<h4>:بريدنا الإلكتروني</h4>
+				<p>alym@example.com</p>
+			  </div>
+  
+			  <div class="phone arabic" >
+				<i class="fas fa-phone"></i>
+				<h4>:اتصل بنا</h4>
+				<p>+966 535 2 888 51</p>
+				
+			  </div>
+  
+			  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14839.377910265042!2d39.145353460491556!3d21.591992963742936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c3d01fb1137e59%3A0xe059579737b118db!2sJeddah%20Saudi%20Arabia!5e0!3m2!1sen!2str!4v1645807318352!5m2!1sen!2str"
+			   frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+			</div>
+  
+		  </div>
+
+	  </div>
+
+	</div>
+  </section><!-- End Contact Section -->
 
 
 
