@@ -43,8 +43,8 @@ a {
 
 
 
-<div class="p-5 text-center	">
-    <h1 class="mb-3">Al Yam Modern for Fashion</h1>
+<div class="p-3 text-center	">
+    <h1 class="mb-3">شركة اليم الحديثة</h1>
     <h4 class="mb-3">لبيع الملابس الجاهزة بالجملة</h4>
 
 
@@ -71,17 +71,17 @@ a {
 
 	  <div dir="rtl" class="row content">
 
-		<div class="col-lg-6 pt-4 pt-lg-0 arabic" >
-			<p >
-				عندما تبدأ بتصميم هوية إلكترونية لشركتك فإن الاعتماد على جودة الصور وروعة التصاميم لن يكون كافيًا بالتأكيد، فلا بد من الاستثمار في قوة الكلمة، في العادة يركّز رواد الأعمال أثناء إعداد المواقع الإلكترونية لشركاتهم على تقديم أفضل محتوى من خلال كتابة الملف التعريفي للشركة أو النبذة التعريفية_ البروفايل، باحترافية عالية
+		<div style="font-size: 20px;" class="col-lg-6 pt-4 pt-lg-0 arabic" >
+			<p>
+				بدات شركه اليم كمؤسسة سعودية مختصه في بيع الملابس بالجملة و من ثم تحولنا الى شركة لتحقيق المزيد من الرياده و التفوق و هدفنا ان نجعل شركتنا في مصاف الشركات العالمية في بيع الملابس النسائية بالجملة 
 			</p>
 		  
 		  </div>
 
 	
-		<div class="col-lg-6 arabic">
+		<div style="font-size: 20px;" class="col-lg-6 arabic">
 		  <p>
-			نحن الشركة الرائدة في جدة في تصدير أجود أنواع الألبسة النسائيةنحن الشركة الرائدة في جدة في تصدير أجود أنواع الألبسة النسائية	نحن الشركة الرائدة في جدة في تصدير أجود أنواع الألبسة النسائية
+			تتميز شركة بأن لها مصنعها الخاص في الصين و الذي من خلاله تتميز و تبدع في اطلاق موديلات و اشكال مختلفة عن السوق
 		  </p>
 		  <ul >
 			<li> أكثر من 20 عاما من الخبرة</li>
@@ -109,11 +109,12 @@ a {
 		
 
 		<div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-		  <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-			<div class="row">
+		  <form action="" method="post" role="form" class="php-email-form">
+			{% csrf_token %}
+			<div  class="row">
 			  <div class="form-group col-md-6 arabic">
 				<label for="name">بريدك الالكتروني</label>
-				<input type="email" class="form-control" name="email" id="email" required>
+				<input type="email" class="form-control" name="email_address" id="email" required>
 			  </div>
 			  <div class="form-group col-md-6 arabic">
 				<label for="name">اسمك</label>
@@ -123,7 +124,7 @@ a {
 			</div>
 			<div class="form-group arabic">
 			  <label for="name">الموضوع</label>
-			  <input type="text" class="form-control" name="subject" id="subject" required>
+			  <input type="text" class="form-control" name="subject" id="topic" required>
 			</div>
 			<div class="form-group arabic">
 			  <label for="name">الرسالة</label>

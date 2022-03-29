@@ -27,5 +27,6 @@ urlpatterns = [
      name='remove-single-item-from-cart'),
     path('',views.index,name = 'index'),
     path('<slug:category_slug>', views.HomeView, name='product_by_category'),
+    path('', views.contact, name="contact"),
 ]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 

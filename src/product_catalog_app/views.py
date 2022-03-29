@@ -14,8 +14,9 @@ from django.utils import timezone
 from django.views.generic import ListView, DetailView, View
 from django.utils.decorators import method_decorator
 from django.contrib.auth import authenticate, login, logout
+from django.core.mail import send_mail, BadHeaderError
 
-from .forms import CheckoutForm, CouponForm, RefundForm, PaymentForm
+from .forms import ContactForm
 from .models import Item, OrderItem, Order,  UserProfile, CATEGORY_CHOICES
 
 stripe.api_key = settings.STRIPE_SECRET_KEY
@@ -32,7 +33,7 @@ def login_form(request):
         if user is not None:
             if user.is_active:
                 login(request, user)
-                return render(request, 'home.html')
+                return redirect("product_catalog_app:products")
             else:
                 pass
         
@@ -202,3 +203,26 @@ def remove_single_item_from_cart(request, slug):
 
 def waitingPage(request):
     return render(request,"waitingPage.html")
+
+
+def contact(request):
+	if request.method == 'POST':
+		form = ContactForm(request.POST)
+		if form.is_valid():
+			subject = "Website Inquiry" 
+			body = {
+			'name': form.cleaned_data['name'], 
+			'email_address': form.cleaned_data['email_address'], 
+            'topic': form.cleaned_data['topic'], 
+			'message':form.cleaned_data['message'], 
+			}
+			message = "\n".join(body.values())
+
+			try:
+				send_mail(subject, message, from_email, ['admin@example.com'])
+			except BadHeaderError:
+				return HTTPResponse('Invalid header found.')
+			return redirect ("product_catalog_app/index.html")
+      
+	form = ContactForm()
+	return render(request, "product_catalog_app/index.html", {'form':form})
