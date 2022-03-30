@@ -47,7 +47,7 @@ input[type="password"]::-webkit-input-placeholder {
           <p style = "text-align: right;">إذا لم تقم بإنشاء حساب بعد ، من فضلك
             <a style = "text-align: right;" href="{% url 'users:register' %}">إنشاء حساب</a> </p>
       
-            <form id="login-form" method="post" action="{% url 'product_catalog_app:login_form' %}">
+            <form dir="rtl" id="login-form" method="post" action="{% url 'product_catalog_app:login_form' %}">
               {% csrf_token %}
               <div class="form-group" style="text-align: right;">
                 <label for="exampleInputEmail1">اسم المستخدم</label>
