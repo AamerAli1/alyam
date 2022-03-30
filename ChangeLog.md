@@ -13,6 +13,7 @@ This Update includes the addition of company Information
 - About us section in the index page
 - contact us section in the index page
 - Logo
+- SSL Certificate
  
 ### Changed
  - Login Page
