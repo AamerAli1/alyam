@@ -105,9 +105,10 @@ class OrderItem(models.Model):
     ordered = models.BooleanField(default=False)
     item = models.ForeignKey(Item, on_delete=models.CASCADE)
     quantity = models.IntegerField(default=1)
+    date_added = models.DateTimeField(auto_now_add=True, blank=True)
 
     def __str__(self):
-        return  self.item.title
+        return  self.item.title + " on " + self.date_added.strftime("%y/%m/%d")
 
     def get_total_item_price(self):
         return self.quantity * self.item.price

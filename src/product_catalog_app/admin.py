@@ -27,6 +27,9 @@ class OrderAdmin(admin.ModelAdmin):
         'ref_code'
     ]
 
+class OrderItemAdmin(admin.ModelAdmin):
+    list_display = ('id','user', 'item' , 'quantity', 'date_added')
+
 
 
   
@@ -36,7 +39,7 @@ class OrderAdmin(admin.ModelAdmin):
 
 
 admin.site.register(Item)
-admin.site.register(OrderItem)
+admin.site.register(OrderItem,OrderItemAdmin)
 admin.site.register(UserProfile)
 admin.site.register(CATEGORY_CHOICES)
 admin.site.register(Order, OrderAdmin)
