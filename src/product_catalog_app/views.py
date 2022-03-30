@@ -125,18 +125,18 @@ def add_to_cart(request, slug):
         if order.items.filter(item__slug=item.slug).exists():
             order_item.quantity += 1
             order_item.save()
-            messages.info(request, "This item quantity was updated.")
+            messages.info(request, "تمت إضافة المنتج إلى عربة التسوق الخاصة بك ")
             return redirect("product_catalog_app:products")
         else:
             order.items.add(order_item)
-            messages.info(request, "This item was added to your cart.")
+            messages.info(request, "تمت إضافة المنتج إلى عربة التسوق الخاصة بك ")
             return redirect("product_catalog_app:products")
     else:
         ordered_date = timezone.now()
         order = Order.objects.create(
             user=request.user, ordered_date=ordered_date)
         order.items.add(order_item)
-        messages.info(request, "This item was added to your cart.")
+        messages.info(request, "تمت إضافة المنتج إلى عربة التسوق الخاصة بك ")
         return redirect("product_catalog_app:order-summary")
 
 
@@ -158,13 +158,13 @@ def remove_from_cart(request, slug):
             )[0]
             order.items.remove(order_item)
             order_item.delete()
-            messages.info(request, "This item was removed from your cart.")
+            messages.info(request, "تمت إزالة هذا المنتج من عربة التسوق الخاصة بك.")
             return redirect("core:order-summary")
         else:
             messages.info(request, "This item was not in your cart")
             return redirect("core:product", slug=slug)
     else:
-        messages.info(request, "You do not have an active order")
+        messages.info(request, "عربة التسوق فارغة")
         return redirect("core:product", slug=slug)
 
 
