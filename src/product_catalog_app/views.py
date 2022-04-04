@@ -1,3 +1,4 @@
+from datetime import datetime
 from http.client import HTTPResponse
 import random
 import string
@@ -116,19 +117,24 @@ def add_to_cart(request, slug):
     order_item, created = OrderItem.objects.get_or_create(
         item=item,
         user=request.user,
-        ordered=False
+        ordered=False,
     )
     order_qs = Order.objects.filter(user=request.user, ordered=False)
+
     if order_qs.exists():
         order = order_qs[0]
         # check if the order item is in the order
         if order.items.filter(item__slug=item.slug).exists():
+            order.ordered_date = timezone.now()
+            order.items.add(order_item)
             order_item.quantity += 1
             order_item.save()
             messages.info(request, "تمت إضافة المنتج إلى عربة التسوق الخاصة بك ")
             return redirect("product_catalog_app:products")
         else:
+            order.ordered_date = timezone.now()
             order.items.add(order_item)
+            order.save()
             messages.info(request, "تمت إضافة المنتج إلى عربة التسوق الخاصة بك ")
             return redirect("product_catalog_app:products")
     else:
@@ -160,6 +166,7 @@ def remove_from_cart(request, slug):
             order_item.delete()
             messages.info(request, "تمت إزالة هذا المنتج من عربة التسوق الخاصة بك.")
             return redirect("core:order-summary")
+
         else:
             messages.info(request, "This item was not in your cart")
             return redirect("core:product", slug=slug)

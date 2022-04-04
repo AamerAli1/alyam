@@ -1,18 +1,42 @@
 from importlib.resources import read_text
 from django.contrib import admin
-
+from import_export.admin import ExportActionMixin
+from import_export import resources
 from .models import Item, OrderItem, Order, UserProfile, CATEGORY_CHOICES
 
+from import_export.widgets import ForeignKeyWidget, ManyToManyWidget
+from import_export.fields import Field
 
 
-def make_refund_accepted(modeladmin, request, queryset):
-    queryset.update(refund_requested=False, refund_granted=True)
+
+class ItemResource(resources.ModelResource):
+
+    class Meta:
+        model = Item
+        fields = ('title',)
+        
+class OrderItemAdmin(admin.ModelAdmin):
+    
+    list_display = ('id','user', 'item' , 'quantity', 'date_added')
+
+    
 
 
-make_refund_accepted.short_description = 'Update orders to refund granted'
+
+class OrderResource(resources.ModelResource):
+    user = Field(attribute='user', widget=ForeignKeyWidget(OrderItem, field='username'))
+    items = Field(attribute='items', widget=ManyToManyWidget(OrderItem, field='item'))
 
 
-class OrderAdmin(admin.ModelAdmin):
+    class Meta:
+        model = Order
+        fields = ('user', 'items','ordered_date')
+
+
+
+class OrderAdmin(ExportActionMixin, admin.ModelAdmin):
+    resource_class = OrderResource
+
     list_display = ['user',
                     'ordered',
                     ]
@@ -27,18 +51,17 @@ class OrderAdmin(admin.ModelAdmin):
         'ref_code'
     ]
 
-class OrderItemAdmin(admin.ModelAdmin):
-    list_display = ('id','user', 'item' , 'quantity', 'date_added')
 
 
+
+class ItemAdmin(ExportActionMixin, admin.ModelAdmin):
+    resource_class = ItemResource
+
+    list_display = ('title','itemNumber', 'isActive' , 'category')
 
   
 
-
-
-
-
-admin.site.register(Item)
+admin.site.register(Item, ItemAdmin)
 admin.site.register(OrderItem,OrderItemAdmin)
 admin.site.register(UserProfile)
 admin.site.register(CATEGORY_CHOICES)

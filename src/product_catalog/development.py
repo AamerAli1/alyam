@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django_crontab',
     'users',
     'django_cleanup.apps.CleanupConfig',
-
+    'import_export',
     'allauth',
     'allauth.account',
 
